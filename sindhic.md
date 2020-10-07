@@ -27,3 +27,4 @@ Some dialectal studies of more recent times also exist:
 ## Kholosi
 
 * Erik Anonby, Hassan Mohebbi Bahmani (2013). *[Shipwrecked and landlocked: Kholosi, an Indo-Aryan language in south-west Iran](https://www.academia.edu/30800968/Shipwrecked_and_landlocked_Kholosi_an_Indo_Aryan_language_in_south_west_Iran)*.
+* Tahereh Rezaei (2020). *[First notes on the syntax of Kholosi as a heritage language in the south of Iran](https://microcontact.sites.uu.nl/wp-content/uploads/sites/210/2020/01/HLS1-Rezaei.pdf)*.
